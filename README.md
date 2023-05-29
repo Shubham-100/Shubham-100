@@ -48,6 +48,7 @@ Hey visitor👋, I’m Shubham, Welcome!
 <details><summary>LeetCode</summary>
   
 <a href='https://leetcode.com/aryan10jangid/'>LeetCode Profile</a>
+[![Shubham's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=aryan10jangid)](https://github.com/madushadhanushka/github-readme)
 
 ![LeetCode Badges -- 17/17 free study plan badges earned, plus the Knight badge for a high contest rating](https://leetcode-badge-showcase.vercel.app/api?username=aryan10jangid)
  
