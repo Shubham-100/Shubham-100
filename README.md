@@ -41,8 +41,8 @@ Hey visitor👋, I’m Shubham, Welcome!
 
 ### Projects
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shubham-100&repo=Netflix)](https://github.com/Shubham-100/Netflix)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shubham-100&repo=YouTubeMate)](https://github.com/Shubham-100/YouTubeMate)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shubham-100&repo=Movies-TV-shows)](https://github.com/Shubham-100/Movies-TV-shows)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shubham-100&repo=Portfolio_Nextjs)](https://github.com/Shubham-100/Portfolio_Nextjs)
 
 <details><summary>LeetCode</summary>
